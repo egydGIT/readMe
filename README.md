@@ -17,8 +17,8 @@
 - [x] [ChatGPT](https://github.com/egydGIT/ChatGPT) - **gyakorlás ChatGPT-vel**
 
 
-If the repository is private, it contains training exercises from Training360.
+If the repository is private,  
 
-    if (frontend == null || javaBackend == null || dailyJava == null || projects == null || practiceExams == null) {
-        throw new NullPointerException("® Training360");
+    if (dailyJava == null || projects == null || practiceExams == null) {
+        throw new NullPointerException(" ® ");
     }
