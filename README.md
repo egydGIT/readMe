@@ -1,6 +1,6 @@
 # readMe
    
-### **egydGIT** Repositories:
+### **egydGIT** repositories:
 #### Tanfolyamok:
 - [x] [frontend](https://github.com/egydGIT/frontend) - **HTML, JavaScript**
 - [x] [javaBackend](https://github.com/egydGIT/javaBackend) - **Java**
@@ -19,3 +19,6 @@
 
 If the repository is private, it contains training exercises from Training360.
 
+if (frontend == null || javaBackend == null || dailyJava == null || projects == null || practiceExams == null) {
+   throw new NullPointerException("® Training360");
+}
