@@ -10,15 +10,18 @@
     - [x] [final exam](https://github.com/egydGIT/zarovizsga) - Záróvizsga
     - [x] [qualifying exam](https://github.com/egydGIT/kepesitovizsga) - **Képesítő vizsga**
 
+If one of these repositories is private: 
+
+    if (dailyJava == null || projects == null || practiceExams == null) {
+        throw new NullPointerException(" ® Training360 ");
+    }
+
 #### Oktatás:
 - [x] [TTA983](https://github.com/egydGIT/TTA983) - **Attila repoja**
 
 #### Gyakorlás:
 - [x] [ChatGPT](https://github.com/egydGIT/ChatGPT) - **gyakorlás ChatGPT-vel**
 
+#### Biológia:
+- [x] [neurology](https://github.com/egydGIT/neurology) 
 
-If the repository is private,  
-
-    if (dailyJava == null || projects == null || practiceExams == null) {
-        throw new NullPointerException(" ® ");
-    }
